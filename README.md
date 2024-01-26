@@ -12,15 +12,12 @@ Project 1: Counter App
 
 Simple counter application to understand the basics of state management in React.
 Project 2: Bgchanger
-
 Create bgchager app using functionality of react and taiwindcss.
 Project 3: Password Generator
-
 React-based Password Generator: Securely generate strong passwords with ease, offering customizable options
 and a user-friendly interface for enhanced password management."
 Project 4: Currency Convertor
 React Currency Converter: Effortlessly convert currencies in real-time with a sleek and intuitive interface, 
 enhancing your financial transactions and global awareness
-
 Project 5:Themechange
-This project will change the color theme with hex code
+This project will change the color theme with hex code.
